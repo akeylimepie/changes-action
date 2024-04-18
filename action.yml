@@ -1,0 +1,10 @@
+name: ''
+description: ''
+author: akeylimepie
+
+outputs:
+    text:
+        description: ''
+runs:
+    using: node20
+    main: src/index.js
